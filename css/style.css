@@ -3,7 +3,7 @@
 }
 body{
 	background: url('../images/jaguar-xe.jpg') no-repeat;	
-	background-size: cover;
+	background-size:100% 100%;
 	
 }
 div.jagu{
