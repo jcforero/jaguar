@@ -1,3 +1,3 @@
 # jaguar
 
-Clase de Front_end
+Class HTML and CSS
